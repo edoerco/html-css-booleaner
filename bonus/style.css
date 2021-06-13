@@ -1,0 +1,130 @@
+body {
+    width: 60%;
+    margin: 0 auto;
+    background-image: url(img/codice.gif);
+    color: white;
+}
+
+.logo {
+    background-image: url(../img/pattern.png);
+    background-color: yellow;
+    background-size: 20%;
+    border: solid 4px white;
+    margin-top: 40px;
+}
+
+.logo img {
+    width: 20%;
+    padding-top: 50px;
+}
+
+h1 {
+    font-size: 50px;
+    margin-bottom: 0px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.titolo {
+    font-size: 20px;
+    text-align: right;
+}
+
+.titolo span {
+    color: blue;
+    background-color: yellow;
+}
+
+.titolo p {
+    font-size: 15px;
+    margin-top: 0px;
+}
+
+.descrizione p {
+    margin: 0px;
+    font-size: 12px;
+}
+
+.evidenziatore {
+    background-color: rgb(194, 226, 131);
+}
+
+p {
+    color: burlywood;
+}
+
+ul {
+    padding: 1%;
+    background-color: rgba(8, 200 ,30, 0.2);
+    border-radius: 10px;
+}
+
+table {
+    border-collapse: collapse;
+}
+    
+.row {
+    background-color: #21a9e5;
+    color: white;
+}
+
+th {
+    text-align: left;
+}
+
+.grandezza-row {
+    width: 50%;
+}
+
+.row-1 {
+    background-color: #b1e5f2;
+    background-image: url(img/macchina-rossa.png);
+    height: 200px;
+    color: black;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.row-2 {
+    background-image: url(img/pattern.png);
+    background-color: blue;
+}
+
+h3 {
+    color: #858585;
+    margin-top: 40px;
+    margin-bottom: 0px;
+    background-color: #fff;
+    width: 120px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.interesse1 {
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+}
+
+.interesse1 p {
+    color: white;
+    font-size: 2em;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+.interesse2 {
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+}
+
+.interesse2 p {
+    color: white;
+    font-size: 2em;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
